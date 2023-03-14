@@ -1,0 +1,88 @@
+.body{
+  background-image: url(fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.Nombre{
+  border-top-width: 4pt;
+  border-bottom-width: 4pt;
+  border-right-width: 4pt;
+  border-left-width: 4pt;
+  border-style: outset;
+  border-color: #2f8692;
+  text-align: center;
+}
+
+.contenedor{
+    border: solid;
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 270px;
+    padding-bottom: 48%;
+    padding: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 25px rgb(0 0 0 / 5%);
+    }
+
+
+.formulario{
+  padding: 10px;
+  
+}
+
+.columna {
+  column-rule: black solid 2px;
+  columns: 4;
+  text-align: justify;
+  margin:30px;
+}
+
+.img{
+  widows: 100px;
+  height: 200px;
+  border: solid 1px;
+  float: left;
+  margin-right: 15px;
+}
+.divimg{
+  border: solid;
+  width: 405px;
+  height: 20%;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 15px;
+  float: left;
+  border-radius: 10px;
+  background-color:#337b8b;
+}
+
+
+.Habididades{
+  border: solid;
+  margin-left:10px;
+  width: 220px ;
+  height: 460px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 15px;
+  float: left;
+  border-radius: 10px;
+  background-color: #337b8b;
+  
+}
+
+
+.JS{
+  border: solid;
+  margin-top:10px;
+  width: 95% ;
+  height: 20%;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  padding: 15px;
+  float: left;
+  border-radius: 10px;
+  background-color: #337b8b;
+}
